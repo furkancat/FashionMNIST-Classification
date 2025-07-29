@@ -1,6 +1,6 @@
 # Fashion-MNIST Giyim Eşyası Sınıflandırma Projesi
 
-Bu proje, Fashion-MNIST veri seti üzerinde derin öğrenme tabanlı bir giyim eşyası sınıflandırma modeli içermektedir. Model, 1T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, Ankle boot kategorilerini sınıflandırmak için bir Evrişimli Sinir Ağı (CNN) kullanmaktadır.
+Bu proje, Fashion-MNIST veri seti üzerinde derin öğrenme tabanlı bir giyim eşyası sınıflandırma modeli içermektedir. Model, T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, Ankle boot kategorilerini sınıflandırmak için bir Evrişimli Sinir Ağı (CNN) kullanmaktadır.
 
 ## Proje Yapısı
 
